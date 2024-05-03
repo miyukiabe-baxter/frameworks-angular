@@ -2,6 +2,17 @@
   "routes": [
     {
       "route": "/profile3"
+    },
+    {
+      "route": "/profile-1",
+      "methods": [
+        "get",
+        "head"
+      ],
+      "rewrite": "/item",
+      "allowedRoles": [
+        "admin"
+      ]
     }
   ]
 }
