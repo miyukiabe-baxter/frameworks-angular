@@ -5,6 +5,9 @@
     },
     {
       "route": "/fromGithubSite"
+    },
+        {
+      "route": "3rdone"
     }
   ]
 }
