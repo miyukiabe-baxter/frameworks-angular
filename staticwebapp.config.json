@@ -16,6 +16,11 @@
     },
     {
       "route": "/profile-2",
+      "methods": [
+        "get",
+        "head",
+        "post"
+      ],
       "headers": {
         "name1": "value1"
       }
