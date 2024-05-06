@@ -13,6 +13,12 @@
       "allowedRoles": [
         "admin"
       ]
+    },
+    {
+      "route": "/profile-2",
+      "headers": {
+        "name1": "value1"
+      }
     }
   ]
 }
