@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "route": "/profile3"
+      "route": "/profile3-test"
     },
     {
       "route": "/profile-1",
