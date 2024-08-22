@@ -2,6 +2,12 @@
   "routes": [
     {
       "route": "/thisisfornonappSpace"
+    },
+    {
+      "route": "/adding2ndOne",
+      "methods": [
+        "get"
+      ]
     }
   ]
 }
