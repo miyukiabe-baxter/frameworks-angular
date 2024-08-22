@@ -27,16 +27,5 @@
   },
   "mimeTypes": {
     ".json": "text/json"
-  },
-  "routes": [
-    {
-      "route": "/fromspaceResourceId",
-      "methods": [
-        "get"
-      ]
-    },
-    {
-      "route": "/oneMore"
-    }
-  ]
+  }
 }
