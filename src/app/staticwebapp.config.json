@@ -1,16 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/fromportal222"
-    },
-    {
-      "route": "/fromGithubSite"
-    },
-    {
-      "route": "3rdone"
-    },
-    {
-      "route": "test1"
-    }
-  ]
-}
+{}
