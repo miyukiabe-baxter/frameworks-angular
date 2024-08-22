@@ -30,7 +30,7 @@
   },
   "routes": [
     {
-      "route": "/fromnonspacev1",
+      "route": "/fromspaceResourceId",
       "methods": [
         "get"
       ]
