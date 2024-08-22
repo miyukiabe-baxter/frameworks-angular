@@ -30,7 +30,7 @@
   },
   "routes": [
     {
-      "route": "/spaceResource",
+      "route": "/fromnonspacev1",
       "methods": [
         "get"
       ]
