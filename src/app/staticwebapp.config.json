@@ -34,9 +34,6 @@
       "methods": [
         "get"
       ]
-    },
-    {
-      "route": "thisfromnonspace"
     }
   ]
 }
