@@ -1,18 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/profile3-test-test"
-    },
-    {
-      "route": "/profile-1",
-      "methods": [
-        "get",
-        "head"
-      ],
-      "rewrite": "/item",
-      "allowedRoles": [
-        "admin"
-      ]
-    }
-  ]
-}
+{}
