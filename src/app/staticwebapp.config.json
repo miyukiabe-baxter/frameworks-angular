@@ -27,5 +27,13 @@
   },
   "mimeTypes": {
     ".json": "text/json"
-  }
+  },
+  "routes": [
+    {
+      "route": "/spaceResource",
+      "methods": [
+        "get"
+      ]
+    }
+  ]
 }
