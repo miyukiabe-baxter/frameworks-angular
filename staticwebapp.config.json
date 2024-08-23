@@ -2,6 +2,9 @@
   "routes": [
     {
       "route": "/profile-v2"
+    },
+    {
+      "route": "/profile"
     }
   ]
 }
