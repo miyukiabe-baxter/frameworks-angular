@@ -2,6 +2,9 @@
   "routes": [
     {
       "route": "/src-v1"
+    },
+    {
+      "route": "/src"
     }
   ]
 }
