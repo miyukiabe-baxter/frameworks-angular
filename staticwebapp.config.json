@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "route": "/profile-v2"
+      "route": "/profile-v2-v1"
     },
     {
       "route": "/profile"
