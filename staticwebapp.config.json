@@ -8,6 +8,9 @@
       "methods": [
         "get"
       ]
+    },
+    {
+      "route": "/test"
     }
   ]
 }
