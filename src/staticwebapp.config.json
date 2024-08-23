@@ -4,7 +4,7 @@
       "route": "/underAppSpace"
     },
     {
-      "route": "/profile"
+      "route": "/profile-v2"
     }
   ]
 }
