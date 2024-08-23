@@ -2,6 +2,9 @@
   "routes": [
     {
       "route": "/underAppSpace"
+    },
+    {
+      "route": "/profile"
     }
   ]
 }
